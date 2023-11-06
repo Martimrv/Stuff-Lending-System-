@@ -1,0 +1,38 @@
+[
+  {
+    "createDate": "2023-10-17",
+    "email": "M1@email.com",
+    "memberId": "07EUCU",
+    "password": "M1Password",
+    "phoneNumber": "M1Phone",
+    "points": 0.0,
+    "userName": "M1Username"
+  },
+  {
+    "createDate": "2023-10-17",
+    "email": "M2@email.com",
+    "memberId": "SRSP5F",
+    "password": "M2Password",
+    "phoneNumber": "M2Phone",
+    "points": 0.0,
+    "userName": "M2Username"
+  },
+  {
+    "createDate": "2023-10-17",
+    "email": "M3@email.com",
+    "memberId": "D6IMSM",
+    "password": "M3Password",
+    "phoneNumber": "M3Phone",
+    "points": 0.0,
+    "userName": "M3Username"
+  },
+  {
+    "createDate": "2023-10-17",
+    "email": "123",
+    "memberId": "EI8PNZ",
+    "password": "123",
+    "phoneNumber": "123",
+    "points": 0.0,
+    "userName": "test"
+  }
+]

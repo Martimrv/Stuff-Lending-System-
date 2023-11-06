@@ -1,0 +1,21 @@
+[
+  {
+    "borrowerId": "D6IMSM",
+    "contractId": "C1",
+    "createDate": 5,
+    "days": 3,
+    "endDay": 7,
+    "item": {
+      "category": "Category2",
+      "contracts": [],
+      "description": "Description2",
+      "itemId": "I2",
+      "memberId": "07EUCU",
+      "name": "Item2",
+      "points": 10.0,
+      "status": 1
+    },
+    "startDay": 5,
+    "status": 1
+  }
+]
