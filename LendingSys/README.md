@@ -1,17 +1,3 @@
-# A2
-
-Project for Assignment 2
-
-## Group Members
-```
-1. Zuo Ling (lz222dq)
-2. Melika Moayer (mm224ys)
-3. Martim Oliveira (mo223tz)
-```
-
-A project template based on gradle and a gitlab pipeline. You should always build and run the application using gradle regularely.
-
-[design.md](design.md) contains the prescribed architectural design of the application.
 
 ## Building
 The build must pass by running console command:  
